@@ -1,0 +1,32 @@
+.valentines-day-box {
+  img {
+    height: 240px;
+    width: 310px;
+  }
+
+  .hooray-message {
+    display: flex;
+
+    p {
+      font-size: 20px;
+      margin-right: 5px;
+    }
+
+    .emoji {
+      width: 25px;
+      height: 25px;
+    }
+  }
+
+  .date-info-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 37px;
+    width: 300px;
+    background-color: rgb(242, 144, 242);
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+  }
+}
