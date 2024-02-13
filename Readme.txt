@@ -1,0 +1,1 @@
+I made this project using HTML5, SCSS and JavaScript to make a Valentine's Day Cute Card for my girlfriend. Really do hope she likes it :)
